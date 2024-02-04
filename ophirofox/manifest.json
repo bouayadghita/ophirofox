@@ -100,6 +100,7 @@
     , "https://nouveau-europresse-com.univ-eiffel.idm.oclc.org/"
     , "https://nouveau-europresse-com.ezproxy.unilim.fr/*"
     , "https://nouveau-europresse-com.ezproxy.uphf.fr/*"
+    , "https://nouveau-europresse-com.ezproxy.normandie-univ.fr/"
   ],
   "background": {
     "scripts": [
@@ -868,6 +869,10 @@
         {
           "name": "University of Cambridge",
           "AUTH_URL": "https://ezp.lib.cam.ac.uk/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=U031883T_1"
+        }
+        {
+          "name": "INSA Rouen",
+          "AUTH_URL": "http://ezproxy.normandie-univ.fr/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=U031221T_5"
         }
       ]
     }
